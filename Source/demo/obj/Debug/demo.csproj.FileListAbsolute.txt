@@ -1,0 +1,9 @@
+D:\project\20100712\demo\Backup\demo\bin\Debug\demo.exe
+D:\project\20100712\demo\Backup\demo\bin\Debug\demo.pdb
+D:\project\20100712\demo\Backup\demo\obj\Debug\ResolveAssemblyReference.cache
+D:\project\20100712\demo\Backup\demo\obj\Debug\demo.DynamicBikingSpeedCtrl.resources
+D:\project\20100712\demo\Backup\demo\obj\Debug\demo.MainForm.resources
+D:\project\20100712\demo\Backup\demo\obj\Debug\demo.Properties.Resources.resources
+D:\project\20100712\demo\Backup\demo\obj\Debug\demo.csproj.GenerateResource.Cache
+D:\project\20100712\demo\Backup\demo\obj\Debug\demo.exe
+D:\project\20100712\demo\Backup\demo\obj\Debug\demo.pdb
